@@ -11,22 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MMath in Mathematics, University of Dundee, 2018 - 2023
+* Ph.D in Statistics, University of Kent, 2023 - current (expected)
+
+Project Topics
+======
+* Bachelors Project
+  * Dundee By Numbers: Examining the Attainment Gap
+  * Supervisor: Dr Eric Hall
+* Masters Project
+  * Rogue Waves in the Ocean
+  * Supervisor: Dr Agis Athanassoulis
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2021 - March 2023: Part time Tutor
+  * University of Dundee
+  * Duties included: helping students with questions, running a drop-in maths session, being presnt in class to aid lecturers, typesetting lecture notes, running breakout rooms during class online (during the COVID-19 pandemic) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
