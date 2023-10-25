@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucy Brown / University of Kent"
+title                    : "Lucy Brown"
 title_separator          : "-"
 name                     : &name "Lucy Brown"
 description              : &description "PhD Student"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "lyb3@kent.ac.uk"
   researchgate     :  
   uri              :
   bitbucket        :
