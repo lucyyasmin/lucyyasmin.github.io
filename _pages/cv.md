@@ -11,17 +11,20 @@ redirect_from:
 
 Education
 ======
-* MMath in Mathematics, University of Dundee, 2018 - 2023
 * Ph.D in Statistics, University of Kent, 2023 - current (expected)
+* MMath in Mathematics, University of Dundee, 2018 - 2023
 
 Project Topics
 ======
-* Bachelors Project
-  * Dundee By Numbers: Examining the Attainment Gap
-  * Supervisor: Dr Eric Hall
+* PhD Project
+  * Modelling of Human Population Registers
+  * Supervisory Team: Dr Eleni Matechou, Dr Bruno Santos, Dr Eleonora Mussino, Dr Ruth King and Dr Blanca Sarzo
 * Masters Project
   * Rogue Waves in the Ocean
   * Supervisor: Dr Agis Athanassoulis
+* Bachelors Project
+  * Dundee By Numbers: Examining the Attainment Gap
+  * Supervisor: Dr Eric Hall
 
 Work experience
 ======
@@ -58,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
